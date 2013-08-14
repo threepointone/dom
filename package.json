@@ -1,0 +1,27 @@
+{
+  "name": "dom",
+  "version": "0.0.0",
+  "description": "tj's dom, made npm friendly",
+  "main": "dom.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/threepointone/dom.git"
+  },
+  "keywords": [
+    "dom",
+    "npm",
+    "browserify"
+  ],
+  "author": "Sunil Pai (threepointone@gmail.com)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/threepointone/dom/issues"
+  }
+}
